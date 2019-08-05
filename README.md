@@ -1,1 +1,1 @@
-# You shouldn't be here.
+# You shouldn't be here. There's nothing interesting.
